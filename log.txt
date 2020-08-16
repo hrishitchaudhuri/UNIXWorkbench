@@ -1,0 +1,11 @@
+commit ff63ac4a8d11796eddf648b44896e39f44bf67f7
+Author: Hrishit Chaudhuri <hrishitchaudhuri@gmail.com>
+Date:   Sun Aug 16 10:08:49 2020 +0530
+
+    Added .gitignore
+
+commit 7b7bc00948889dcaea7de3ab0415443f61d3002a
+Author: Hrishit Chaudhuri <hrishitchaudhuri@gmail.com>
+Date:   Sun Aug 16 09:01:41 2020 +0530
+
+    added readme.txt
