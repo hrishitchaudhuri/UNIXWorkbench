@@ -1,26 +1,17 @@
-# This is a large heading
+# Third Semester Courses
 
-## This is a smaller heading
+### Digital Design and Computer Organization
+CC: UE19CS201 <br/>
+Credits: 4 <br/>
+Lab component included.
 
-**imagination**
-*unknown*
+### Data Structures and its Applications
+CC: UE19CS202 <br/>
+Credits: 4 <br/>
+Lab component included.
 
-- unordered 
-- list
-- for example
-
-1. ordered
-2. list
-3. for example.
-
-`this is code`
-
-```
-this is 
-a block 
-of code
-```
-
-[a link](https://wikipedia.org/)
-![an image link.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Statistics for Data Science
+CC: UE19CS203 <br/>
+Credits: 4 <br/>
+No lab component.
 
