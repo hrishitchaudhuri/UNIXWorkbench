@@ -1,17 +1,3 @@
-# Third Semester Courses
-
-### Digital Design and Computer Organization
-CC: UE19CS201
-Credits: 4
-Lab component included.
-
-### Data Structures and its Applications
-CC: UE19CS202
-Credits: 4
-Lab component included.
-
-### Statistics for Data Science
-CC: UE19CS203
-Credits: 4
-No lab component.
-
+# Guessing Game
+Make was run on Aug 16 12:02
+Number of Lines of Code in the Program is 25
